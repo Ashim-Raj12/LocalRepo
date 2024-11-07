@@ -1,5 +1,3 @@
-print("Author Ashim Raj")
-print("This is Calculator code")
 
 def add(x, y):
     return x + y
